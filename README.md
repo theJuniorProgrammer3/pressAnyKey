@@ -6,7 +6,7 @@ Tidak ada catatan.
 
 English Version:
 
-Are you bored or confused? you can play this (although sometimes it makes you confused or bored)Are you bored or confused? you can play this (although sometimes it makes you confused or bored)
+Are you bored or confused? you can play this (although sometimes it makes you confused or bored)
 
 No note.
 
@@ -15,7 +15,7 @@ No note.
 Termux
 
 # Tried it on:
-# Telah dicoba di:
+## Telah dicoba di:
 - Termux
 
 # Maybe you can try it on:
