@@ -1,5 +1,4 @@
 #include <ncurses.h>
-//#include <signal>
 #include <cstdlib>
 #include <ctime>
 
